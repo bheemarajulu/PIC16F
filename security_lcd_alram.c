@@ -18,7 +18,7 @@ short *digit = "00";
 void led();
 void init();
 void push();
-
+  
 
 void Display_1_init() // define display_init;
  {
